@@ -1,4 +1,6 @@
 # 🚀 CompanyGPT  
+<img width="1919" height="901" alt="Screenshot 2026-05-29 082435" src="https://github.com/user-attachments/assets/d51587b4-2690-4bb1-a23f-cab15f9093fa" />
+
 ### AI Operating System for Modern Teams
 
 > CompanyGPT is an AI-powered SaaS workspace that transforms meetings, tasks, documents, analytics, and company workflows into an intelligent automated operating system.
